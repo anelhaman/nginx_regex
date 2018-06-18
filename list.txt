@@ -1,0 +1,14 @@
+/index.php/
+/catalog/product_compare/
+/catalog/category/view/
+/catalog/product/view/
+/catalogsearch/
+/checkout/
+/control/
+/contacts/
+/customer/
+/customize/
+/newsletter/
+/review/
+/sendfriend/
+/wishlist/
